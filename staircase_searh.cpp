@@ -33,7 +33,7 @@ int main() {
                         {9, 10, 11, 12},
                         {13, 14, 15, 16}};
 
-    staircase(matrix, 4, 4, 11);
+    staircase(matrix, 4, 4, 4);
 
     return 0;
 }
